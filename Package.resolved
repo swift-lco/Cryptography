@@ -22,7 +22,7 @@
     {
       "identity" : "dsl",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/DSL.git",
+      "location" : "https://github.com/swift-dsl/DSL.git",
       "state" : {
         "branch" : "master",
         "revision" : "b85a4fcf315dfa6c100b38adc7a9cdec15ad817f"
